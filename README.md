@@ -43,7 +43,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/danrq-mathdev)
 - 🧠 [GitHub](https://github.com/DanReq)
-- 📬 [Gmail](danreq94@gmail.com)
+- 📬 (Correo) *(danreq94@gmail.com)*
 
 ---
 
