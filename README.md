@@ -18,7 +18,7 @@
 
 🔹 **Análisis financiero con Python**  
 📊 Visualización de KPIs financieros, limpieza de datos y análisis exploratorio.  
-[🔗 Ver repositorio](#) <!-- Cambia este enlace cuando lo tengas -->
+[🔗 Ver repositorio](https://github.com/DanReq/markov-finance-model) <!-- Cambia este enlace cuando lo tengas -->
 
 🔹 **Simulador de crecimiento poblacional en Java**  
 📈 Aplicación en consola basada en el modelo logístico.  
