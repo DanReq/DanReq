@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Daniel (DanReq)
+# 👋 ¡Hola! Soy Daniel (danrq-mathdev)
 
 🎓 Matemático | 💻 Apasionado por el análisis de datos y la programación  
 🔍 En constante aprendizaje sobre cómo aplicar la matemática para impulsar el desarrollo de la tecnología
