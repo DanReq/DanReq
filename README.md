@@ -35,6 +35,8 @@ Salesforce + FastAPI project focused on automating sales reports through Salesfo
 **Status:** Public release pending hackathon completion.
 A sanitized public version will be published after the hackathon concludes.
 
+[View Case Study](https://github.com/DanReq/quiton-salesforce-ai-reporting)
+
 ---
 
 ### Financial Risk Prediction Using Markov Chains
